@@ -8,10 +8,8 @@ RITA Desktop captures live RealSense RGB and depth on supported systems, display
 
 Get the installer for your platform from [GitHub Releases](https://github.com/javiergs/rita-desktop/releases/latest).
 
-| Platform | Installer | Features |
-| --- | --- | --- |
-| macOS on Apple Silicon | DMG | PLY viewing and RealSense capture |
-| Windows x64 | MSI | PLY viewing |
+- **macOS on Apple Silicon** — DMG for PLY viewing and RealSense capture.
+- **Windows x64** — MSI for PLY viewing.
 
 ## Sample captures
 
