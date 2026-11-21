@@ -1,6 +1,6 @@
-# RITA Desktop
+# RITA Point Cloud Desktop
 
-**3D Reconstruction, Pose Inference, Tracking, and Alignment**
+**Reconstruction, Pose Inference, Tracking, and Alignment**
 
 RITA Desktop captures live RealSense RGB and depth on supported systems, displays 3D point clouds, and saves and opens PLY models.
 
