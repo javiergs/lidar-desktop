@@ -1,5 +1,7 @@
 # LIDAR Desktop
 
+[![Download](https://img.shields.io/github/v/release/javiergs/lidar-desktop?label=Download)](https://github.com/javiergs/lidar-desktop/releases/latest)
+
 **Reconstruction, Pose Inference, Tracking, and Alignment**
 
 LIDAR Desktop captures live RealSense RGB and depth on supported systems, displays 3D point clouds, and saves and opens PLY models.
@@ -8,7 +10,7 @@ LIDAR Desktop captures live RealSense RGB and depth on supported systems, displa
 
 ## Downloads
 
-Get the installer for your platform from [GitHub Releases](https://github.com/javiergs/rita-desktop/releases/latest). Existing installers may still display the RITA Desktop name.
+Get the installer for your platform from [GitHub Releases](https://github.com/javiergs/lidar-desktop/releases/latest). Existing installers may still display the RITA Desktop name.
 
 - **macOS on Apple Silicon** — DMG for PLY viewing and RealSense capture.
 - **Windows x64** — MSI for PLY viewing.
